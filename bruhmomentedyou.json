@@ -1,1 +1,6 @@
-{"Version":0.01,"Discord_Invite":"","Announcement":"Beta Version is available!"}
+{
+  "Version":"0.0.1",
+  "Authentication":false,
+  "Mod Status":false,
+  "Steam Manager Status":true
+}
